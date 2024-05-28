@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansi032005&label=Profile%20views&color=0e75b6&style=flat" alt="priyansi032005" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/priyansi-borda-55569a257](www.linkedin.com/in/priyansi-borda-55569a257)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/priyansiborda](www.linkedin.com/in/priyansiborda)
 
 - 📫 How to reach me **priyansi032005@gmail.com**
 
