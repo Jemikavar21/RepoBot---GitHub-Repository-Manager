@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **priyansi032005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10mTvHbqGqSiIAR567rv77kSawCOUO-Nz/view?usp=sharing](https://drive.google.com/file/d/10mTvHbqGqSiIAR567rv77kSawCOUO-Nz/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/10mTvHbqGqSiIAR567rv77kSawCOUO-Nz/view?usp=sharing](https://drive.google.com/file/d/1xLSyneufJk_p39a2mbk8P1TeDiAxlwRm/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
