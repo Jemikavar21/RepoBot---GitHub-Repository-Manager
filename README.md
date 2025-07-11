@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyansi Borda</h1>
+<h1 align="center">Hi 👋, I'm Jemi Kavar </h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansi032005&label=Profile%20views&color=0e75b6&style=flat" alt="priyansi032005" /> </p>
